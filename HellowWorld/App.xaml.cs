@@ -7,7 +7,7 @@ namespace HellowWorld
 		public App()
 		{
 			InitializeComponent();
-
+			//Command Added
 			MainPage = new HellowWorldPage();
 		}
 
